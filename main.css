@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    text-align: center;
+    background-color: #444;
+    color: #fff;
+    font-size: 30px;
+    padding: 8px 15px;
+}
